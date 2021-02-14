@@ -58,7 +58,7 @@ GEM
     rack-ssl-enforcer (0.2.8)
     rack-test (0.6.3)
       rack (>= 1.0)
-    rake (10.4.2)
+    rake (12.3.3)
     ref (1.0.5)
     sass (3.4.13)
     sinatra-assetpack (0.3.1)
