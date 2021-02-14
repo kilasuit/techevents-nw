@@ -16,7 +16,7 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
-    bson (1.12.2)
+    bson (1.12.5)
     bson_ext (1.12.2)
       bson (~> 1.12.2)
     faraday (0.9.1)
